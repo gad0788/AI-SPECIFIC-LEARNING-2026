@@ -84,6 +84,7 @@ Use this as the main bookmark file. Prefer official docs first, then high-qualit
 
 ## Useful GitHub Repos
 
+- AI SRE open-source watchlist: [ai-sre-open-source-watchlist.md](ai-sre-open-source-watchlist.md)
 - Awesome MCP servers: https://github.com/wong2/awesome-mcp-servers
 - Awesome AI apps: https://github.com/Arindam200/awesome-ai-apps
 - LLM course: https://github.com/mlabonne/llm-course

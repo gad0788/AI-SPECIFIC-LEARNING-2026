@@ -8,6 +8,7 @@ Prefer official docs first, then high-quality courses, GitHub repos, and practic
 
 - [resource-index.md](resource-index.md): main curated list of docs, courses, repos, and tools.
 - [current-2026-notes.md](current-2026-notes.md): time-sensitive 2026 notes and MCP endpoint references.
+- [ai-sre-open-source-watchlist.md](ai-sre-open-source-watchlist.md): open-source AI/SRE, DevOps, DevSecOps, cloud, platform, and Kubernetes projects to scrape, study, and use for implementation planning.
 
 ## How to Use
 
@@ -24,4 +25,3 @@ Prefer official docs first, then high-quality courses, GitHub repos, and practic
 - Architecture references.
 - MCP server references.
 - LLMOps and observability tools.
-

@@ -20,8 +20,8 @@ Build in increasing difficulty. Each lab should have a README, architecture diag
 ## Advanced
 
 - `aws-bedrock-agentcore-platform`: deploy an AWS-native agent with IAM-scoped tools, CloudWatch, and CI/CD.
+- `ai-incident-investigator-for-eks`: build the AI-powered SRE Copilot PRD into a read-only incident investigation agent for EKS, Mimir, Loki, Tempo, CloudWatch, Kubernetes events, and deployment history.
 - `multi-agent-sre-assistant`: planner, investigator, remediation proposer, and reviewer agents with human approval.
 - `ai-platform-reference-architecture`: production design for multi-tenant AI apps with auth, logging, evals, cost controls, and rollback.
 - `prompt-injection-defense-lab`: demonstrate untrusted retrieval content attacks and mitigations.
 - `model-routing-gateway`: route requests across providers based on cost, latency, quality, and fallback policy.
-
